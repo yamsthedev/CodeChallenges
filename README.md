@@ -1,2 +1,2 @@
-# CodeWars
-Daily CodeWars solutions by me.
+# CodeChallenges
+Daily Code Challenges solutions by me.
