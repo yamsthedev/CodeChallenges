@@ -40,3 +40,9 @@ function arrayDiff(a, b) {
   }
   return arr
 }
+
+// Set, Set.prototype.has()
+function arrayDiff(a,b){
+  b = new Set(b)
+  return a.filter(e => b.has(e))
+}
